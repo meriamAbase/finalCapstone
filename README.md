@@ -1,4 +1,6 @@
-# Capstone Project: Task Requirements:
+# Capstone Project - Lists, Functions, and String Handling.
+
+# Task Requirements:
 Follow these steps:
 
 
